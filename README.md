@@ -50,8 +50,6 @@ Two specific operational objectives:
 
 # My Approach — high level workflow
 
-(Organised in the order executed — this sequence follows professional project standards.)
-
 1. **Load data**
 
    * Import transactional and lookup tables into Power BI / Power Query.
