@@ -115,7 +115,7 @@ Two specific operational objectives:
 * **Population table:** Added from Wikipedia (state population 2020) to provide per-capita insights on the map visual.
 * **Rows:** ~15,000 cleaned transaction records (project example)
 * **Geography:** Nigerian states and zones (North East, South West, Federal Capital Territory, etc.)
-* **Directors table fields:** `RegionalMD`, `Zone`, `RegionalMDEmail`, `PhotoURL` (optional)
+* **Directors table fields:** `RegionalMD`, `Zone`, `RegionalMDEmail`, `Directors Photo` 
 
 ---
 
@@ -151,7 +151,7 @@ Two specific operational objectives:
 * Top promotions: **Adventist Promo** (top), Winners Promo, Deeper Promotion, Hammartan Promo, Xmas Holiday Promo, etc.
 * Time analysis: snapshot in screenshot shows **Total Sales = ₦16.0M** for a plotted year (2014).
 * Regional totals: Regional Directors page displays **Total Sales = ₦56.3M** and **Sum of Order Qty = ₦251K** for the selected scope (verify with source data).
-* Map clustering: sales concentrated in Lagos, Abuja, Port Harcourt, Ibadan — South West is strong.
+* Map clustering: sales concentrated in Lagos, Abuja, Port Harcourt, Ibadan — South West is strong with Ebony having the highest sales.
 
 ---
 
@@ -189,16 +189,11 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 * Add a role in Power BI Desktop (Modeling → Manage Roles). Apply a filter on the Directors table such as:
 
 ```dax
-[RegionalMDEmail] = USERPRINCIPALNAME()
+[Email] = USERPRINCIPALNAME()
 ```
-
-* Alternatively, if you use usernames (UPNs) for mapping, map those UPNs to the Directors table, then use the same filter.
-* **Testing:** Use `Modeling → View as` to validate the role in Power BI Desktop. In Power BI Service, assign users to the role in the dataset settings.
-* **Important:** Ensure the `RegionalMDEmail` values match the actual UPN format Power BI will present (example: `user@company.com`).
-
 ---
 
-# Visualisation (what was built)
+# Visualisation
 
 **Home (Executive) page**
 
