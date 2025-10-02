@@ -331,4 +331,6 @@ LICENSE
 * **GitHub:** `https://github.com/<yourusername>`
 * **LinkedIn:** `https://www.linkedin.com/in/<yourprofile>` (optional)
 
-nd I will create it directly for inclusion in this repo.
+# Final Note
+
+The PBIX file and an Executive PowerPoint presentation have been prepared for delivery to management.
