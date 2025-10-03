@@ -217,12 +217,12 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 
 # Analysis / Work Done — Key insights 
 
-* **Outlet channel dominates sales** (≈₦8.9M; ~55.6% of the displayed snapshot). Recommendation: prioritize merchandising and inventory for outlet channel.
-* **Online is the second largest channel** (≈₦3.6M). Opportunity to invest in e-commerce initiatives and fulfillment.
-* **Top product:** Laptops — maintain focused inventory, cross-sell accessories and extended warranties.
+* **Outlet channel dominates sales** with ₦32.2M; i.e 57.2% of the the total). Recommendation: prioritize merchandising and inventory for outlet channel.
+* **Online is the second largest channel** with ₦11.7M. Opportunity to invest in e-commerce initiatives and fulfillment.
+* **Top product:** Camcoders,Projectors & screen and Laptops— maintain focused inventory, cross-sell accessories and extended warranties.
 * **Best performing promotion:** Adventist Promo — study mechanics and customer targeting to replicate success.
-* **Geographic concentration:** South West (including Lagos and Ibadan) shows large clusters of sales; smaller volumes in Federal Capital Territory suggest either an opportunity or data completeness issue.
-* **Visualization caution:** Gauge displaying ₦56.3M against a 10M axis — fix gauge scaling to avoid misinterpretation.
+* **Geographic concentration:** South East (including Ebonyi and Anambara) shows large clusters of sales;South South and North Central having moderate clusters and smaller volumes in Federal Capital Territory suggest either an opportunity or data completeness issue.
+* **Visualization caution:** Gauge displaying ₦56.3M against a 10M Max — fix gauge scaling to avoid misinterpretation.
 * **Contactability:** Each region has an assigned MD and email for quick escalation/follow-up.
 
 ---
