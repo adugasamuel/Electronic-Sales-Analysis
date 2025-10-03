@@ -4,7 +4,7 @@ This project uses a public/simulated dataset that mirrors real-world electronic 
 ---
 # Introduction
 
-The dataset used for this project is a **public/simulated dataset** created to mimic real-world electronic sales transactions across Nigeria. The purpose of the project is to demonstrate end-to-end data analyst skills — from data cleaning and modelling to exploratory analysis, visualization and secure report delivery (row-level security). All figures and visual ordering referenced in this README were taken directly from the project screenshots and should be validated against the raw data when you open the PBIX.
+The dataset used for this project is a **public/simulated dataset** created to mimic real-world electronic sales transactions across Nigeria. The purpose of the project is to demonstrate end-to-end data analyst skills from data cleaning and modelling to exploratory analysis, visualization and secure report delivery (row-level security). All figures and visual ordering referenced in this README were made directly from the project analysis and should be validated against the raw data when you open the PBIX.
 
 ---
 
