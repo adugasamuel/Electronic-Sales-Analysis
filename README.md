@@ -191,7 +191,7 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 
 **Home (Executive) page**
 
-* KPI cards: `Total Sales (₦16.0M)` and `Sum of Order Qty (₦91K)` (example).
+* KPI cards: `Total Sales for all years (₦56.3M)` and `Sum of Order Qty for all years (251K)` 
 * Donut: **Total Sales by Channel** (Outlet, Online, Reseller, Catalog).
 * Horizontal bar: **Total Sales by Product Category**.
 * Horizontal bar: **Total Sales by Promotion** (top promotions displayed).
@@ -203,9 +203,9 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 
 * Zone tile buttons (Federal Capital Territory, North Central, North East, North West, South East, South South, South West).
 * Bubble map: **Total Sales by State** (size = sales amount).
-* Gauge: Total Sales vs Min & Max Target (value example: ₦56.3M).
+* Gauge: Total Sales vs Min & Max Target (Total Sales: ₦56.3M for this analysis we set Min=0 & Max = 10M).
 * KPI cards for `Total Sales` and `Sum of Order Qty` in the selected scope.
-* Contact / profile card: Regional MD (example: Bola Tunji — South West — email shown).
+*  Profile card: Regional MD (example: Bola Tunji — South West — email shown).
 
 **UX details**
 
