@@ -113,7 +113,7 @@ Two specific operational objectives:
 * **Population table:** Added from Wikipedia (state population 2020) to provide per-capita insights on the map visual.
 * **Rows:** ~15,000 cleaned transaction records (project example)
 * **Geography:** Nigerian states and zones (North East, North West, North Central, South West,South East, South South & Federal Capital Territory)
-* **Directors table fields:** `Name`, `Zone`, `Email`, `Directors Photo` 
+* **Directors table fields: Name, Zone, Email, Directors Photo
 
 ---
 
