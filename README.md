@@ -48,7 +48,7 @@ Two specific operational objectives:
 
 ---
 
-# My Approach — high level workflow
+# My Approach (workflow)
 
 1. **Load data**
 
