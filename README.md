@@ -61,7 +61,7 @@ Two specific operational objectives:
    * Create a star schema: SalesDetails (fact) with related dimension tables (Product, Channel, Promotion, State/Zone, Directors, Date).
 4. **Exploratory Data Analysis (EDA)**
 
-   * Validate totals, inspect distributions, identify outliers, perform top-N analysis and time-series checks.
+   * Validate totals, inspect distributions, identify outliers(in this case there is none), perform top-N analysis and time-series checks.
 5. **Measures & calculations**
 
    * Create robust DAX measures (Total Sales, Quantity, % of total, target comparisons, time intelligence).
