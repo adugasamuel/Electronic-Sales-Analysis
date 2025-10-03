@@ -238,7 +238,7 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 
 # Skills and tools used
 
-* **Tools:** Power BI Desktop, Power Query, DAX, Excel (for Directors table and synthetic data), Wikipedia (population), optional Power BI Service for sharing.
+* **Tools:** Power BI Desktop, Power Query, DAX, Excel (for Directors table and synthetic data), Wikipedia (population), and Power BI Service for sharing.
 * **Skills:** Data cleaning & normalization, star schema modelling, time intelligence, DAX, UX for dashboards, mapping/geospatial visuals, Row-Level Security (RLS), stakeholder storytelling.
 
 ---
