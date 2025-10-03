@@ -126,6 +126,7 @@ Two specific operational objectives:
   * `SalesDetails[State] -> StateZone[State]`
   * `SalesDetails[RegionalMD] -> Directors[RegionalMD]`
   * `SalesDetails[OrderDate] -> Date[Date]`
+  *  `Directors[Zone] -> StateZone[Zone]`
 * Created derived tables:
 
   * **Date** table (Date, Day, Month, MonthNumber, Quarter, Year) — marked as Date table.
@@ -138,7 +139,7 @@ Two specific operational objectives:
 
 * Top channels by sales (sourced from Home page screenshot):
 
-  * **Outlet** — ₦8.9M (~55.6% of total shown)
+  * **Outlet** — ₦8.9M (55.6% of total shown)
   * **Online** — ₦3.6M (~22.8%)
   * **Reseller** — ₦2.2M (~13.9%)
   * **Catalog** — ₦1.2M (~7.8%)
@@ -211,14 +212,12 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 **UX details**
 
 * Left navigation buttons (Home, Director) implemented with bookmarks.
-* Upload image placeholder for MD photos.
+* Upload image url for MD photos.
 * Consistent corporate color palette and card styling.
 
 ---
 
-# Analysis / Work Done — Key insights (from the dashboard screenshots)
-
-> All numbers below are taken from the dashboard screenshots and used as working insights. Validate with raw data for production use.
+# Analysis / Work Done — Key insights 
 
 * **Outlet channel dominates sales** (≈₦8.9M; ~55.6% of the displayed snapshot). Recommendation: prioritize merchandising and inventory for outlet channel.
 * **Online is the second largest channel** (≈₦3.6M). Opportunity to invest in e-commerce initiatives and fulfillment.
