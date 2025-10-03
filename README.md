@@ -195,7 +195,7 @@ Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 * Donut: **Total Sales by Channel** (Outlet, Online, Reseller, Catalog).
 * Horizontal bar: **Total Sales by Product Category**.
 * Horizontal bar: **Total Sales by Promotion** (top promotions displayed).
-* Time scatter/line for `Total Sales by Year/Quarter/Month & Day`.
+* Time line for `Total Sales by Year/Quarter/Month & Day`.
 * Slicers: Zone, Year (buttons), Regional MD (checkbox list).
 * Bottom ticker: Zone totals (rolling display).
 
