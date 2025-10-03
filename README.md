@@ -99,11 +99,10 @@ Two specific operational objectives:
 
   * Ensure consistent currency symbol (₦) and numeric formatting for presentation.
 * **Data volume**
-
-  * After cleaning, we retained approximately **15,000 sales records** (example outcome shown in the project context).
+  
 * **Populate geo data**
 
-  * Add lat/long or state codes required for mapping visuals.
+  * Add state required for mapping visuals.
 
 ---
 
