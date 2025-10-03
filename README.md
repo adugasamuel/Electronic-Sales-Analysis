@@ -304,19 +304,6 @@ LICENSE
 
 ---
 
-# How to run / reproduce locally
-
-1. Install **Power BI Desktop** (latest stable).
-2. Clone this repository.
-3. Place your real dataset as `data/sales_data.csv` (or use the provided sample).
-4. Open `pbix/Electronic_Sales_Dashboard.pbix` in Power BI Desktop.
-5. Update each data source path (Home → Transform data → Data source settings).
-6. Validate relationships, refresh data and review the visuals.
-7. For RLS: Modeling → Manage Roles → create role with `Directors[RegionalMDEmail] = USERPRINCIPALNAME()`. Test using View as Roles.
-8. Publish to Power BI Service and configure role assignments for actual user accounts.
-
----
-
 # Contact
 
 * **Aduga Emmanuel**
