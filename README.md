@@ -137,15 +137,15 @@ Two specific operational objectives:
 
 # Exploratory Data Analysis (EDA)
 
-* Top channels by sales (sourced from Home page screenshot):
+* Top channels by sales shows:
 
   * **Outlet** — ₦8.9M (55.6% of total shown)
-  * **Online** — ₦3.6M (~22.8%)
-  * **Reseller** — ₦2.2M (~13.9%)
-  * **Catalog** — ₦1.2M (~7.8%)
-* Top product categories (descending): **Laptops**, Camcorders, Projectors & Screens, Digital SLR Cameras, Home Theater Systems, Televisions, Monitors, Desktops, Smartphones, Digital Cameras.
-* Top promotions: **Adventist Promo** (top), Winners Promo, Deeper Promotion, Hammartan Promo, Xmas Holiday Promo, etc.
-* Time analysis: snapshot in screenshot shows **Total Sales = ₦16.0M** for a plotted year (2014).
+  * **Online** — ₦3.6M (22.8%)
+  * **Reseller** — ₦2.2M (13.9%)
+  * **Catalog** — ₦1.2M (7.8%)
+* Top product categories (descending): Camcorders, Projectors & Screens, Laptops, Digital SLR Cameras, Home Theater Systems, Desktops, Smartphones, Digital Cameras,Car video, Televisions, Touch Screen Phones, Monitors, Printers, Scanners & Fax, Movie DVD, Cell Phone Accessories, Computer Accessories, MP4 & MP3's, Cameras & Camcoders Accessories, Home & Offices Phones, Recording Pen, Bluetooth HeadPhone, VCD & DVD.
+* Top 3 promotions: **Adventist Promo, Winners Promo & Deeper Promotion** stays at **Top** while  Hammartan Promo, Xmas Holiday Promo, etc.
+* Time analysis: **Total Sales = ₦16.0M** for a plotted year (2014).
 * Regional totals: Regional Directors page displays **Total Sales = ₦56.3M** and **Sum of Order Qty = ₦251K** for the selected scope (verify with source data).
 * Map clustering: sales concentrated in Lagos, Abuja, Port Harcourt, Ibadan — South West is strong with Ebony having the highest sales.
 
