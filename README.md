@@ -326,4 +326,6 @@ LICENSE
 
 # Final Note
 
-The PBIX file and an Executive PowerPoint presentation have been prepared for delivery to management.
+An Executive PowerPoint presentation have been prepared for delivery to management...check repo!
+
+# Thank You!
