@@ -67,10 +67,10 @@ Two specific operational objectives:
    * Create robust DAX measures (Total Sales, Quantity, % of total, target comparisons, time intelligence).
 6. **Visualization**
 
-   * Build executive Home page and Regional Directors page (maps, KPIs, donut & bar charts, gauge). Add bookmarks and navigation buttons for smooth UX.
+   * Build executive Home page and Regional Directors page (maps, KPIs, donut & bar charts, gauge). Add bookmarks and navigation buttons for smooth User experience.
 7. **Row-Level Security**
 
-   * Implement RLS using Directors table mapped to USERPRINCIPALNAME() so each MD only accesses their region.
+   * Implement RLS using Directors table [Email] mapped to USERPRINCIPALNAME() so each MD only accesses their region.
 8. **Validation & handoff**
 
    * Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
@@ -82,7 +82,7 @@ Two specific operational objectives:
 * Load these tables into Power Query: **SalesDetails**, **Product**, **StateZone**, **Promotion**, **Channels (primary)** and a created **Directors** table.
 * **Data type checks**
 
-  * Ensure `OrderDate` is Date, `UnitPrice` / `SalesAmount` are Currency/Decimal, `Quantity` is integer.
+  * Ensure `Datekey` is Date, `UnitPrice` , `UnitCost` are Currency/Decimal, `Order Qty` is integer.
 * **Nulls & blanks**
 
   * Replace or remove null product codes, state names or prices. Flag rows with missing mandatory fields.
@@ -112,8 +112,8 @@ Two specific operational objectives:
 * **Source tables:** SalesDetails (fact), Product, StateZone, Promotion, Channels (primary), Directors (created in Excel)
 * **Population table:** Added from Wikipedia (state population 2020) to provide per-capita insights on the map visual.
 * **Rows:** ~15,000 cleaned transaction records (project example)
-* **Geography:** Nigerian states and zones (North East, South West, Federal Capital Territory, etc.)
-* **Directors table fields:** `RegionalMD`, `Zone`, `RegionalMDEmail`, `Directors Photo` 
+* **Geography:** Nigerian states and zones (North East, North West, North Central, South West,South East, South South & Federal Capital Territory)
+* **Directors table fields:** `Name`, `Zone`, `Email`, `Directors Photo` 
 
 ---
 
