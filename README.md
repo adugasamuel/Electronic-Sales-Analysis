@@ -159,13 +159,11 @@ Two specific operational objectives:
 -- Basic aggregations
 Total Sales = SUMX('Sales_Details', 'Sales_Details'[Unit Price] * 'Sales_Details'[Order Qty])
 
-Sum Order Qty = SUM( SalesDetails[Quantity] )
+Sum Order Qty = SUM(SalesDetails[Quantity])
 
--- Percent of total sales (useful for donut/pie)
-% of Total Sales = DIVIDE( [Total Sales], CALCULATE([Total Sales], ALL(SalesDetails)), 0 )
 
 -- Time intelligence (requires Date table)
-Total Sales YTD = TOTALYTD( [Total Sales], 'Date'[Date] )
+Total Sales YTD = TOTALYTD( [Total Sales], 'CalenderTB'[Date] )
 
 -- Targets (if stored per MD or zone)
 Min Target = MIN( Targets[MinTarget] )    -- or from Directors table
