@@ -16,8 +16,7 @@ An interactive **Power BI Sales Dashboard** that provides executive and regional
 
 # Project context
 
-**Project link:** *Insert project link here (GitHub / Power BI Service)*
-You can view the public project here: **`<INSERT_PROJECT_LINK>`**
+Here is a securely *[Embeded link to this Report]*(https://app.powerbi.com/reportEmbed?reportId=0e1c8cd2-728c-4909-aee8-677efba05958&autoAuth=true&ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0)
 
 This dashboard is intended for internal stakeholders (CEO / Managing Director, Regional Directors, Sales & Marketing, Inventory and Operations teams) to make rapid decisions about inventory, promotions and regional resource allocation.
 
