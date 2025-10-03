@@ -157,7 +157,7 @@ Two specific operational objectives:
 
 ```dax
 -- Basic aggregations
-Total Sales = SUM( SalesDetails[SalesAmount] )
+Total Sales = SUMX('Sales_Details', 'Sales_Details'[Unit Price] * 'Sales_Details'[Order Qty])
 
 Sum Order Qty = SUM( SalesDetails[Quantity] )
 
