@@ -319,10 +319,10 @@ LICENSE
 
 # Contact
 
-* **Name:** *Your Name (e.g., Bola Tunji — example used in screenshots)*
-* **Email:** *[your.email@example.com](mailto:your.email@example.com)* (replace)
-* **GitHub:** `https://github.com/<yourusername>`
-* **LinkedIn:** `https://www.linkedin.com/in/<yourprofile>` (optional)
+* **Aduga Emmanuel**
+* [**Email**](adugasamuel@gmail.com)
+* [**GitHub:**](https://github.com/adugasamuel)
+* [**LinkedIn:*](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
 
 # Final Note
 
