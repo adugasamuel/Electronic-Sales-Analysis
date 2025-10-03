@@ -95,13 +95,11 @@ Two specific operational objectives:
 * **Outlier checks**
 
   * Identify unrealistically large unit price or quantity values for review.
-* **Currency & regional formatting**
 
+* **Currency & regional formatting**
   * Ensure consistent currency symbol (₦) and numeric formatting for presentation.
-* **Data volume**
   
 * **Populate geo data**
-
   * Add state required for mapping visuals.
 
 ---
