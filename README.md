@@ -251,7 +251,6 @@ Max Target = MAX( Targets[MaxTarget] )
 * **Sales by Promotion**
 * **Sales by Zone / State**
 * **Sales vs Min / Max Targets**
-* **Top N products & promotions**
 
 ---
 
