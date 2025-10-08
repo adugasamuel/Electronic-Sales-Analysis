@@ -237,7 +237,7 @@ Max Target = MAX( Targets[MaxTarget] )
 
 # Skills and tools used
 
-* **Tools:** Power BI Desktop, Power Query, DAX, Excel (for Directors table and synthetic data), Wikipedia (population), and Power BI Service for sharing.
+* **Tools:** Power BI Desktop, Power Query, DAX, Excel (for Directors table and synthetic data), Connection to Wikipedia public data (Nigerian States & population data for year 2020), and Power BI Service for sharing.
 * **Skills:** Data cleaning & normalization, star schema modelling, time intelligence, DAX, UX for dashboards, mapping/geospatial visuals, Row-Level Security (RLS), stakeholder storytelling.
 
 ---
