@@ -86,7 +86,7 @@ Two specific operational objectives:
 
 # Data Cleaning Checklist (detailed)
 
-* **Load these tables into Power Query : **
+* **Load these tables into Power Query :**
   SalesDetails, Product, StateZone, Promotion, Channels (primary) and a created Directors table.
 
 * **Data type checks :**
