@@ -147,10 +147,10 @@ Two specific operational objectives:
 
 * Top channels by sales shows:
 
-  * **Outlet** — ₦8.9M (55.6% of total shown)
-  * **Online** — ₦3.6M (22.8%)
-  * **Reseller** — ₦2.2M (13.9%)
-  * **Catalog** — ₦1.2M (7.8%)
+  * **Outlet** — ₦32.2M (57.23 % of total shown)
+  * **Online** — ₦11.7M (28.8 %)
+  * **Reseller** — ₦7.3M (12.98 %)
+  * **Catalog** — ₦1.2M (5.1 %)
 * Top product categories (descending): Camcorders, Projectors & Screens, Laptops, Digital SLR Cameras, Home Theater Systems, Desktops, Smartphones, Digital Cameras,Car video, Televisions, Touch Screen Phones, Monitors, Printers, Scanners & Fax, Movie DVD, Cell Phone Accessories, Computer Accessories, MP4 & MP3's, Cameras & Camcoders Accessories, Home & Offices Phones, Recording Pen, Bluetooth HeadPhone, VCD & DVD.
 * Top 3 promotions: **Adventist Promo, Winners Promo & Deeper Promotion** stays at **Top** while  Hammartan Promo, Xmas Holiday Promo, etc.
 * Time analysis: **Total Sales = ₦16.0M** for a plotted year (2014).
