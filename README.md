@@ -87,7 +87,7 @@ Two specific operational objectives:
 # Data Cleaning Checklist (detailed)
 
 * Load these tables into Power Query : *
-  SalesDetails**, **Product**, **StateZone**, **Promotion**, **Channels (primary)** and a created **Directors** table.
+  SalesDetails, Product, StateZone, Promotion, Channels (primary) and a created Directors table.
 
 * **Data type checks :**
   Ensure `Datekey` is Date, `UnitPrice` , `UnitCost` are Currency/Decimal, `Order Qty` is integer.
