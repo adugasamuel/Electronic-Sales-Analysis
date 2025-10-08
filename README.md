@@ -215,7 +215,7 @@ Max Target = MAX( Targets[MaxTarget] )
 **UX details**
 
 * Left navigation buttons (Home, Director) implemented with bookmarks.
-* Upload image url for MD photos.
+* conect image url for MD photo. (public image)
 * Consistent corporate color palette and card styling.
 
 ---
@@ -289,23 +289,6 @@ Max Target = MAX( Targets[MaxTarget] )
 
 * The **PBIX file** and an **Executive PowerPoint** (summary slides) are attached in this repository for management presentation. Please replace placeholder links and emails with your production values before publishing.
 * Values shown in screenshots are illustrative and should be cross-checked against the source data. If you want a synthetic dataset to accompany the PBIX for reviewers, I can produce a sample CSV that matches the schema used.
-
----
-
-# Files included (recommended repo structure)
-
-```
-/assets
-  - Home.png
-  - Regional Directors.png
-/data
-  - sales_data_sample.csv     <-- (optional synthetic dataset)
-  - population_by_state.csv
-/pbix
-  - Electronic_Sales_Dashboard.pbix
-README.md
-LICENSE
-```
 
 ---
 
