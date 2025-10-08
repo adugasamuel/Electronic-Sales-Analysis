@@ -86,28 +86,29 @@ Two specific operational objectives:
 
 # Data Cleaning Checklist (detailed)
 
-* Load these tables into Power Query: **SalesDetails**, **Product**, **StateZone**, **Promotion**, **Channels (primary)** and a created **Directors** table.
+* Load these tables into Power Query:
+  SalesDetails**, **Product**, **StateZone**, **Promotion**, **Channels (primary)** and a created **Directors** table.
+
 * **Data type checks**
+  Ensure `Datekey` is Date, `UnitPrice` , `UnitCost` are Currency/Decimal, `Order Qty` is integer.
 
-  * Ensure `Datekey` is Date, `UnitPrice` , `UnitCost` are Currency/Decimal, `Order Qty` is integer.
 * **Nulls & blanks**
+   Replace or remove null product codes, state names or prices. Flag rows with missing mandatory fields.
 
-  * Replace or remove null product codes, state names or prices. Flag rows with missing mandatory fields.
 * **Duplicates**
+  Identify duplicate `OrderID` or duplicate transaction rows and remove / reconcile them.
 
-  * Identify duplicate `OrderID` or duplicate transaction rows and remove / reconcile them.
 * **Inconsistent category names**
+  Uniform casing, trim whitespace, merge synonyms (e.g., “South West” vs “Southwest”).
 
-  * Uniform casing, trim whitespace, merge synonyms (e.g., “South West” vs “Southwest”).
 * **Outlier checks**
-
-  * Identify unrealistically large unit price or quantity values for review.
+   Identify unrealistically large unit price or quantity values for review.
 
 * **Currency & regional formatting**
-  * Ensure consistent currency symbol (₦) and numeric formatting for presentation.
+   Ensure consistent currency symbol (₦) and numeric formatting for presentation.
   
 * **Populate geo data**
-  * Add state required for mapping visuals.
+   Add state required for mapping visuals.
 
 ---
 
