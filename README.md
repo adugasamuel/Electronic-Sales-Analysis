@@ -80,7 +80,7 @@ Two specific operational objectives:
 
 10. **Validation & handoff**
 
-   Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
+    Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
 
 ---
 
