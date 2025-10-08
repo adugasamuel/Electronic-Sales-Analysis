@@ -161,23 +161,16 @@ Two specific operational objectives:
 
 # Measures & Calculations (DAX examples)
 
-> Replace table/column names to match your model.
-
 ```dax
 - Basic aggregations
 Total Sales = SUMX('Sales_Details', 'Sales_Details'[Unit Price] * 'Sales_Details'[Order Qty])
 
 Sum Order Qty = SUM(SalesDetails[Quantity])
 
-
-- Time intelligence (requires Date table)
-Total Sales YTD = TOTALYTD( [Total Sales], 'CalenderTB'[Date] )
-
 - Targets (if stored per MD or zone)
 Min Target = MIN( Targets[MinTarget] )    -- or from Directors table
 Max Target = MAX( Targets[MaxTarget] )
 
-- Useful for dynamic gauge max (e.g., 120% of highest target)
 ```
 
 ---
