@@ -181,8 +181,6 @@ Max Target = MAX( Targets[MaxTarget] )
 Gauge Max = MAX( Targets[MaxTarget] ) * 1.2
 ```
 
-**Note:** In the provided screenshots a gauge displays `₦56.3M` with a small axis maximum (10M) — this indicates a formatting/scale misconfiguration. Use `Gauge Max` to set gauge dynamically or set max to the target table's max.
-
 ---
 
 # Row-Level Security (RLS)
