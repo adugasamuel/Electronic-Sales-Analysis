@@ -51,11 +51,10 @@ Two specific operational objectives:
 # My Approach (workflow)
 
 1. **Load data**
-
-   * Import transactional and lookup tables into Power BI / Power Query.
+   Import transactional and lookup tables into Power BI / Power Query.
 2. **Data cleaning & normalization**
+    Standardize data types, handle nulls, remove duplicates, correct category/label inconsistencies.
 
-   * Standardize data types, handle nulls, remove duplicates, correct category/label inconsistencies.
 3. **Data modelling & engineering**
 
    * Create a star schema: SalesDetails (fact) with related dimension tables (Product, Channel, Promotion, State/Zone, Directors, Date).
