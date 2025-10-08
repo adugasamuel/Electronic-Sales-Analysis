@@ -168,7 +168,8 @@ Total Sales = SUMX('Sales_Details', 'Sales_Details'[Unit Price] * 'Sales_Details
 Sum Order Qty = SUM(SalesDetails[Quantity])
 
 - Targets (if stored per MD or zone)
-Min Target = MIN( Targets[MinTarget] )    -- or from Directors table
+
+Min Target = MIN( Targets[MinTarget] )    -- Min & Max Values are Flexible based on the sales target
 Max Target = MAX( Targets[MaxTarget] )
 
 ```
