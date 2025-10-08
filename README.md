@@ -51,26 +51,29 @@ Two specific operational objectives:
 # My Approach (workflow)
 
 1. **Load data**
+   
    Import transactional and lookup tables into Power BI / Power Query.
-2. **Data cleaning & normalization**
+   
+3. **Data cleaning & normalization**
+   
     Standardize data types, handle nulls, remove duplicates, correct category/label inconsistencies.
 
-3. **Data modelling & engineering**
+5. **Data modelling & engineering**
 
    * Create a star schema: SalesDetails (fact) with related dimension tables (Product, Channel, Promotion, State/Zone, Directors, Date).
-4. **Exploratory Data Analysis (EDA)**
+6. **Exploratory Data Analysis (EDA)**
 
    * Validate totals, inspect distributions, identify outliers (in this case there is none), perform top-N analysis and time-series checks.
-5. **Measures & calculations**
+7. **Measures & calculations**
 
    * Create robust DAX measures (Total Sales, Quantity, % of total, target comparisons, time intelligence).
-6. **Visualization**
+8. **Visualization**
 
    * Build executive Home page and Regional Directors page (maps, KPIs, donut & bar charts, gauge). Add bookmarks and navigation buttons for smooth User experience.
-7. **Row-Level Security**
+9. **Row-Level Security**
 
    * Implement RLS using Directors table [Email] mapped to USERPRINCIPALNAME() so each MD only accesses their region.
-8. **Validation & handoff**
+10. **Validation & handoff**
 
    * Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
 
