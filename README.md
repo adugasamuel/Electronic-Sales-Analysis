@@ -60,27 +60,27 @@ Two specific operational objectives:
 
 5. **Data modelling & engineering**
 
-   * Create a star schema: SalesDetails (fact) with related dimension tables (Product, Channel, Promotion, State/Zone, Directors, Date).
+   Create a star schema: SalesDetails (fact) with related dimension tables (Product, Channel, Promotion, State/Zone, Directors, Date).
 
 6. **Exploratory Data Analysis (EDA)**
 
-   * Validate totals, inspect distributions, identify outliers (in this case there is none), perform top-N analysis and time-series checks.
+   Validate totals, inspect distributions, identify outliers (in this case there is none), perform top-N analysis and time-series checks.
 
 7. **Measures & calculations**
 
-   * Create robust DAX measures (Total Sales, Quantity, % of total, target comparisons, time intelligence).
+   Create robust DAX measures (Total Sales, Quantity, % of total, target comparisons, time intelligence).
 
 8. **Visualization**
 
-   * Build executive Home page and Regional Directors page (maps, KPIs, donut & bar charts, gauge). Add bookmarks and navigation buttons for smooth User experience.
+   Build executive Home page and Regional Directors page (maps, KPIs, donut & bar charts, gauge). Add bookmarks and navigation buttons for smooth User experience.
 
 9. **Row-Level Security**
 
-   * Implement RLS using Directors table [Email] mapped to USERPRINCIPALNAME() so each MD only accesses their region.
+   Implement RLS using Directors table [Email] mapped to USERPRINCIPALNAME() so each MD only accesses their region.
 
 10. **Validation & handoff**
 
-   * Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
+   Validate visuals with stakeholders, fix formatting issues (e.g., gauge scaling), deliver PBIX and executive PowerPoint.
 
 ---
 
