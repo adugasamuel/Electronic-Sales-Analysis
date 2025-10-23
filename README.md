@@ -281,8 +281,7 @@ Max Target = MAX( Targets[MaxTarget] )
 # Final note
 
 * The **PBIX file** and an **Executive PowerPoint** (summary slides) are attached in this repository for management presentation. Please replace placeholder links and emails with your production values before publishing.
-* Values shown in screenshots are illustrative and should be cross-checked against the source data. If you want a synthetic dataset to accompany the PBIX for reviewers.
-
+* Values shown in screenshots are illustrative and should be cross-checked against the source data. 
 ---
 
 # Contact
