@@ -148,7 +148,7 @@ Two specific operational objectives:
 * Top channels by sales shows:
 
   * **Outlet** — ₦32.2M (57.23 % of total shown)
-  * **Online** — ₦11.7M (28.8 %)
+  * **Online** — ₦11.7M (20.8 %)
   * **Reseller** — ₦7.3M (12.98 %)
   * **Catalog** — ₦1.2M (5.1 %)
 * Top product categories (descending): Camcorders, Projectors & Screens, Laptops, Digital SLR Cameras, Home Theater Systems, Desktops, Smartphones, Digital Cameras,Car video, Televisions, Touch Screen Phones, Monitors, Printers, Scanners & Fax, Movie DVD, Cell Phone Accessories, Computer Accessories, MP4 & MP3's, Cameras & Camcoders Accessories, Home & Offices Phones, Recording Pen, Bluetooth HeadPhone, VCD & DVD.
