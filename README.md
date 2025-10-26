@@ -287,9 +287,10 @@ Max Target = MAX( Targets[MaxTarget] )
 # Contact
 
 * **Aduga Emmanuel**
-* [**Email**](adugasamuel@gmail.com)
+* [**adugasamuel@gmail.com**](adugasamuel@gmail.com)
 * [**GitHub**](https://github.com/adugasamuel)
 * [**LinkedIn**](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
+* [portfolio](https://adugasamuel.github.io/)
 
 # Final Note
 
