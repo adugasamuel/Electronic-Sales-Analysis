@@ -137,7 +137,7 @@ Two specific operational objectives:
   *  `Directors[Zone] -> StateZone[Zone]`
 * Created derived tables:
 
-  * **Date** table (Date, Day, Month, MonthNumber, Quarter, Year) — marked as Date table.
+  * **Date** table (Date, Day, Month, MonthNumber, Quarter, Year) — marked as Db table.
   * **Product hierarchy** (Category > SubCategory > Product) for drill-down.
   * **Population** table for map density and per-capita analysis.
 
