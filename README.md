@@ -26,12 +26,12 @@ This dashboard is intended for internal stakeholders (CEO / Managing Director, R
 
 Provide the Chief Executive / Managing Director with a single authoritative report that answers:
 
-* **Which channels and product categories drive the majority of sales?**
-* **Which promotions are most effective?**
-* **Which states and zones are underperforming or overperforming?**
-* **Who is the responsible Regional Director and how can they be contacted?**
-* **How do current sales compare to the assigned Min/Max targets?**
-* **How to securely distribute the same report so each Regional Director only sees their region (Row-Level Security)?**
+* Which channels and product categories drive the majority of sales?
+* Which promotions are most effective?
+* Which states and zones are underperforming or overperforming?
+* Who is the responsible Regional Director and how can they be contacted?
+* How do current sales compare to the assigned Min/Max targets?
+* How to securely distribute the same report so each Regional Director only sees their region (Row-Level Security)?
 
 Two specific operational objectives:
 
